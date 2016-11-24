@@ -43,7 +43,8 @@ class Test(unittest.TestCase):
 
     def test_username(self):
         QSONG_williamhill = williamhill_account()
-        print( QSONG_williamhill.get_williamhill_balance("qidizhihuizh", "Songqg1981"))
+        balance  = QSONG_williamhill.get_williamhill_balance("qidizhihuizh", "Songqg1981")
+        print( balance)
 
         return
         
