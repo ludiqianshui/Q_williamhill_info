@@ -1,0 +1,21 @@
+{  
+   "game":{  
+      "home":"team1",
+      "away":"team2",
+      "game_id":"1258202",
+      "game_info_link":"http://zq.win007.com/analysis/1258202.htm",
+      "game_handicap_link":"http://vip.win007.com/changeDetail/handicap.aspx?id=1258202&companyID=4",
+      "game_overunder_link":"http://vip.win007.com/changeDetail/overunder.aspx?id=1258202&companyid=4"
+   },
+   "company":{  
+      "1":"澳彩",
+      "8":"Bet365",
+      "3":"SB"
+   },
+   "odd_type":{  
+      "handicap":"handicap",
+      "overunder":"overunder",
+      "handicaphalf":"handicaphalf",
+      "overunderhalf":"overunderhalf"
+   }
+}
